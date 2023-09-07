@@ -1,0 +1,82 @@
+h1,
+h2,
+h3,
+h4,
+h6{
+    font-family: 'Tajawal', sans-serif;
+    margin: 0; 
+    padding: 0; 
+    color: #37aec3;
+
+} 
+p,h5{
+    font-family: 'Tajawal', sans-serif;
+    margin: 0; 
+    padding: 0; 
+}
+ 
+#navbar{ 
+    background-color: #37aec3;
+}
+
+
+.img-heading p {
+    font-size: 1.8rem;
+    color    : white;
+}
+
+.input-group {
+    opacity: 0.7;
+
+}
+
+input::placeholder {
+    color  : white;
+    opacity: 1;
+}
+
+.input-group i {
+    right    : 10px;
+    top      : 50%;
+    transform: translateY(-50%);
+}
+
+.inner-content h1 {
+    font-size: 3rem;
+}
+
+
+.inner-content .today-with-time p{ 
+    font-size: 2rem;
+    padding-right: 15px;
+} 
+
+
+
+.card{ 
+    background-color: #37aec3; 
+    color: white;
+} 
+.cardDay{ 
+    background-color: #29c1d8; 
+    margin-bottom: 5px;
+} 
+.btn{ 
+    background-color: #29c1d8;  
+    color: white;
+} 
+.btn:hover{ 
+    background-color: white ;  
+    color: #29c1d8; 
+    border: 1px solid #29c1d8;
+} 
+footer{ 
+    background-color: #374850;
+}
+a{ 
+    color: #29c1d8; 
+    text-decoration: none;
+} 
+a:hover{ 
+    color: white;
+}
